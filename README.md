@@ -1,2 +1,3 @@
 # first-repository
-program with the example of convertions
+. Program with the example of convertions
+. Program with the example of palindrom
