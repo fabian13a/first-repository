@@ -1,2 +1,2 @@
 # first-repository
-# program with the example of convertions
+program with the example of convertions
