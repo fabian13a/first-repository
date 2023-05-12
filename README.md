@@ -5,3 +5,4 @@
 ### - Program with the example of paradox
 ### - Program with other example
 ### - Program with example of threads
+### - Program with example of store
